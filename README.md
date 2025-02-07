@@ -1,8 +1,13 @@
 
+### Ola eu sou o Erick Chaves
+
+
+
+## Statistics:
 
 <div align="center">  
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ErickSChaves&show_icons=true&count_private=true&hide_border=true&title_color=6B0AFA&icon_color=6B0AFA&text_color=c9d1d9&bg_color=0d1117"/> 
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSChaves&layout=compact&hide_border=true&title_color=6B0AFA&text_color=6B0AFA&bg_color=0d1117" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ErickSChaves&show_icons=true&count_private=true&hide_border=true&title_color=6B0AFA&icon_color=6B0AFA&text_color=c9d1d9&bg_color=0d1117"/> 
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSChaves&layout=compact&hide_border=true&title_color=6B0AFA&text_color=6B0AFA&bg_color=0d1117" />
 </div>
 
 
@@ -17,7 +22,7 @@
 
 
 
-## Statistics:
+
 
 
 
